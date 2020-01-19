@@ -4,7 +4,7 @@ Insomni'hack Teaser - 2020
 ## Overview
 
 **URL:** https://teaser.insomnihack.ch/ 
-**Organisors:** Insomni'hack Team
+**Organisers:** Insomni'hack Team
 **Duration:** 24 hours  
 **Team mates:** Team Competition  
 
