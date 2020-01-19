@@ -3,8 +3,8 @@ Insomni'hack Teaser - 2020
 
 ## Overview
 
-**URL:** https://teaser.insomnihack.ch/ 
-**Organisers:** Insomni'hack Team
+**URL:** https://teaser.insomnihack.ch/  
+**Organisers:** Insomni'hack Team  
 **Duration:** 24 hours  
 **Team mates:** Team Competition  
 
@@ -91,8 +91,7 @@ Tried:
 1; cat print-flag -> Failed
 1; ls -laR -> Found ping.php
 
-Decided to try [http://lowdeep.insomnihack.ch/robots.txt](robots.png)
-As it had the /_res_/iron-fleet path found with the 'ls -laR' command, tried http://lowdeep.insomnihack.ch/print-flag, which downloaded the file [print-flag](print-flag), which turned out to be an ELF file.
+Decided to try [http://lowdeep.insomnihack.ch/robots.txt](robots.png).  As it had the /_res_/iron-fleet path found with the 'ls -laR' command, tried http://lowdeep.insomnihack.ch/print-flag, which downloaded the file [print-flag](print-flag), which turned out to be an ELF file.
 
 Running strings on the file revealed the flag.
 
